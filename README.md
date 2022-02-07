@@ -18,7 +18,7 @@
   <br>
   <br>
 
-  📚 I'm currently levelling up my Mobile and Systems Development Skill
+  📚 I'm currently levelling up my Mobile and Systems Development Skills
   <br>
 
   💻 I love writing code and building solutions
