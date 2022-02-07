@@ -18,10 +18,10 @@
   <br>
   <br>
 
-  💻 I love writing code and building solutions
+  📚 I'm currently levelling up my Mobile and Systems Development Skill
   <br>
 
-  📚 I'm currently levelling up my Mobile and Systems Development Skill
+  💻 I love writing code and building solutions
 
   <br>
   <!-- 💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
