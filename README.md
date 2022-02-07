@@ -16,9 +16,12 @@
 <p align="center">
    Hi, I'm Pofi Abel, FullStack Web Developer. 
   <br>
-  💻 I love writing code and learn anythings about it
   <br>
+  💻 I love writing code and building solutions
+  <br>
+
   📚 I'm currently amping up my Mobile and Systems Development Skills
+  
   <br>
   <!-- 💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
