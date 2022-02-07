@@ -69,10 +69,10 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a> -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=ipofi&count_private=true&show_icons=true&theme=gotham&border_color=61dafb&hide_border=true" />
+      <img align="center" height=175 width=390 src="https://github-readme-stats.vercel.app/api?username=ipofi&count_private=true&show_icons=true&theme=gotham&border_color=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipofi&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipofi&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 <!--   <br><br><br><br><br><br><br><br><br>
@@ -107,11 +107,12 @@
   <a align="left" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
 </div> -->
+
 <br><br><br><br><br><br>
+
 <h4 align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
