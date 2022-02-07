@@ -1,8 +1,8 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka"> -->
 
-<h1 align="center">
+<h3 align="center">
   Hello there, I'm Abel 👋
-</h1>
+</h3>
 
 <h5 align="center">
   <code>
