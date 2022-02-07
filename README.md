@@ -26,7 +26,7 @@
   <br>
   <!-- 💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
-  📫 How to reach me: <a href="mailto: abelamos.dev@gmail.com">abelamos.dev@gmail.com</a>
+  📫 How to reach me: <a href="mailto: amosabel.dev@gmail.com">abelamos.dev@gmail.com</a>
 </p>
 
 <hr>
