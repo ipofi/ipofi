@@ -17,11 +17,11 @@
    Hi, I'm Pofi Abel, FullStack Web Developer. 
   <br>
   <br>
-  
+
   💻 I love writing code and building solutions
   <br>
 
-  📚 I'm currently amping up my Mobile and Systems Development Skills
+  📚 I'm currently levelling up my Mobile and Systems Development Skill
 
   <br>
   <!-- 💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
