@@ -7,7 +7,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/abel-pofi-665469226/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <!-- <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code> -->
   <code><a href="https://twitter.com/pofi_abel" title="HackerRank Profile"><img width="22" src="https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk"> Twitter</a></code>
   <!-- <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code> -->
   <code><a href="https://www.instagram.com/pofi_abel/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
@@ -26,7 +26,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 <br>
 <p align="center">
   <!-- <code><img title="C" height="25" src="images/c.svg"></code>
